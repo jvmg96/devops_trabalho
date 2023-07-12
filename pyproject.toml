@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "devopstrabalhofinal"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="João Victor Milagres Guimarães", email="1398500@sga.pucminas.br" },
   { name="Allan da Silveira e Silva", email="1405224@sga.pucminas.br" },
