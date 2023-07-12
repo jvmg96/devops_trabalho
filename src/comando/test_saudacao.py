@@ -6,7 +6,6 @@
 
 from comando import saudacao
 
-
 def teste():
     name = "João"
     saudacao(name)
