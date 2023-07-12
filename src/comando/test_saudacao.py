@@ -4,10 +4,10 @@
 # print(saudacao("Maria"))
 # print(saudacao("Ana"))
 
-from comando import stringstd
+from comando import saudacao
 
 
 def test_full_name():
     name = "Kelly Frazão"
-    std_name = stringstd.standardize(name)
+    std_name = saudacao.standardize(name)
     assert len(std_name.split(' ')) > 1
