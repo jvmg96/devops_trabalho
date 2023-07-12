@@ -1,0 +1,21 @@
+from elevador import Elevador
+
+elevador = Elevador()
+elevador.inicializar(7,8)
+
+elevador.entrar()
+print(vars(elevador))
+elevador.entrar()
+print(vars(elevador))
+elevador.entrar()
+print(vars(elevador))
+elevador.subir()
+print(vars(elevador))
+elevador.subir()
+print(vars(elevador))
+elevador.sair()
+print(vars(elevador))
+elevador.entrar()
+print(vars(elevador))
+elevador.entrar()
+print(vars(elevador))

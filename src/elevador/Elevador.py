@@ -63,9 +63,7 @@ class Elevador:
     @pessoasDentro.setter
     def pessoasDentro(self, pessoasDentro):
         self.__pessoasDentro = pessoasDentro
-        
-        
-        
+
 elevador = Elevador()
 elevador.inicializar(7,8)
 
