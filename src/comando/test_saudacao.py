@@ -4,5 +4,3 @@ def teste():
     saudacao("João")
     saudacao("Maria")
     saudacao("Ana")
-
-teste()
