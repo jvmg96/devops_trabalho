@@ -1,4 +1,4 @@
-from elevador import Elevador
+from src import Elevador
 
 def test_entrar():
     elevador = Elevador(7, 0, 8, 0)
