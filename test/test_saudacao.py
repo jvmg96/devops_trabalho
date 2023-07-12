@@ -1,4 +1,4 @@
-from src.codigo import comando
+from codigo import comando
 
 def teste():
     name = "João"
