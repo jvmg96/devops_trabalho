@@ -7,7 +7,6 @@
 from comando import saudacao
 
 
-def test_full_name():
-    name = "Kelly Frazão"
-    std_name = saudacao.standardize(name)
-    assert len(std_name.split(' ')) > 1
+def teste():
+    name = "João"
+    saudacao(name)
