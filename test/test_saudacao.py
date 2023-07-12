@@ -1,4 +1,4 @@
-from comando import saudacao
+from src.comando import saudacao
 
 def teste():
     assert saudacao("João") == "Olá, João!"
