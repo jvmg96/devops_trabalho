@@ -1,4 +1,4 @@
-# Trabalho Final DevOps
+# Trabalho Final - DevOps
 
 ## Grupo:
 João Victor Milgres Guimarães
