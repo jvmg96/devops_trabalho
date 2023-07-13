@@ -3,7 +3,7 @@
 Código Comando: Saudação
 
 ## Grupo:
-João Victor Milgres Guimarães
+João Victor Milagres Guimarães
 
 Allan da Silveira e Silva
 
